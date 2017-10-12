@@ -1,0 +1,62 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  margin: auto;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Abril Fatface', cursive;
+}
+
+#background {
+  background-image: url(https://static.pexels.com/photos/17739/pexels-photo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-width: 100%;
+  min-height: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+.container {
+  width: 80%;
+}
+
+.list {
+ list-style: none;
+  line-height: 55px;
+  margin: auto;
+  color: black;
+    margin-left: 385px
+}
+
+.indi {
+  height: 60px;
+  width: 150px;
+  margin: 15px 15px;
+  border: 2px solid black;
+  letter-spacing: 1px;
+  color: black;
+  border-radius: 5px;
+}
+
+#temp {
+  font-size: 600%;
+}
+
+.box {
+  margin-top: 50px;
+  height: 60px;
+}
+
+h1 {
+ 
+  font-size: 40px;
+  font-weight: bolder;
+  color: black;
+}
+
+.first {
+  margin-top: 150px;
+}
